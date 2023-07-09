@@ -1,0 +1,107 @@
+.face{
+    height: 250px;
+    width: 250px;
+    background-color: palevioletred;
+    border-radius: 100%;
+    position: relative;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+.reye{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 65px;
+    left: 50px;
+}
+
+.leye{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 65px;
+    right: 50px;
+}
+
+.reball{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 20px;
+    position: absolute;
+    top: 13px;
+    left: 13px;
+}
+
+.leball{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 20px;
+    position: absolute;
+    top: 13px;
+    right: 13px;
+}
+
+.nose{
+    height: 50px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    top: 140px;
+    right: 80px;
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+.rn{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 100px;
+}
+
+.ln{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 100px;
+}
+
+.container{
+    margin-left: 600px;
+    margin-top: 150px;
+}
+
+.lear{
+    border: 0px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: palevioletred;
+    border-radius: 500px;
+    margin-left: 600px;
+    margin-top: -250px;
+
+}
+
+.rear{
+    border: 0px solid black;
+    height: 90px;
+    width: 90px;
+    background-color: palevioletred;
+    border-radius: 700px;
+    margin-left: 778px;
+    margin-top: -91px;
+
+}
+
